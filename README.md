@@ -5,8 +5,8 @@ Extra git command for showing information about old branches.
 Useful for easy cleanup of old branches.
 
 ## Installation
-Just put this file in any location referenced in $PATH. Make sure it
-has +x permission if you copy-paste the command there.
+Just put this file in any location referenced in $PATH. For example, 
+`~/bin/`. Make sure it has +x permission if you copy-paste the command there.
 
 Fun fact: any executable file in your $PATH named `git-anything` will add
 `anything` as a custom command available to git. Way more powerful than
