@@ -1,3 +1,5 @@
+![Dead branches](https://upload.wikimedia.org/wikipedia/commons/b/be/Brennreisig.JPG)
+
 # git-oldbranches
 Extra git command for showing information about old branches.
 Useful for easy cleanup of old branches.
